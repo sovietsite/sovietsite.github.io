@@ -1,0 +1,71 @@
+.cesquoi
+{
+	color: FireBrick;
+}
+
+
+body
+{
+	background-color: #262626;
+
+	width: 100%;
+
+}	
+
+p
+{
+	font-size: 2.1em
+
+}
+
+h1
+{
+	font-size: 2.5em
+}
+
+a
+{
+	font-size: 2em
+}
+
+h2
+{
+	font-size: 2.2em
+}
+
+h3
+{
+	font-size: 2em
+}
+
+*
+{
+	text-align: center;
+
+	color: white;
+
+	font-family: verdana
+
+}
+
+a:hover
+{
+	color:#96384F;
+}
+
+#col{
+    display:block; position:relative;
+    width:1500px;
+    height:200px;
+}
+#col ul{
+    display: block;
+    width: 100%;
+    padding:0px
+}
+#col ul li{
+    display: inline-block;
+    width: 30% ;
+    margin-left: 1%;
+    margin-right: 1%;
+}
